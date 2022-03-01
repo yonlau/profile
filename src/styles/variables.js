@@ -3,19 +3,20 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
+    --navy: #ffb304;
+    --light-navy: #be3f2e;
     --lightest-navy: #233554;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
-    --slate: #8892b0;
+    --slate: #0a192f;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #64ffda;
+    --green: #f47043;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
+    --verdigris: #52afa4;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
